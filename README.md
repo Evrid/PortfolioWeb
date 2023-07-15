@@ -18,8 +18,8 @@ Developed a personal portfolio website, which showcases my technical skills, res
 - Node.js: Used for the backend server.
 - Express.js: Used for setting up the server.
 - CSS3: Used for styling the website.
-- VsCode: Used as the code editor.
-- Vercel: Used for deploying the website.
+- Visual Studio: Used as the code editor.
+- Netlify: Used for deploying the website.
 
 *Contribution:
 
